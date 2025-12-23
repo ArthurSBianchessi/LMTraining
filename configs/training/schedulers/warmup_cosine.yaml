@@ -1,0 +1,7 @@
+_target_: training.schedulers.warmup_cosine.Scheduler
+warmup_iters: 100
+total_iters: 1000
+start_factor: 0.001
+eta_min: 0.0
+last_epoch: -1
+verbose: false
