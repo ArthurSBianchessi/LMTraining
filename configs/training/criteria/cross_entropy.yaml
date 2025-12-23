@@ -1,0 +1,3 @@
+_target_: training.criteria.cross_entropy.CrossEntropy
+target_key: "labels"
+ignore_index: -100
