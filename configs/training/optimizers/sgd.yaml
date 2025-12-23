@@ -1,0 +1,9 @@
+_target_: training.optimizers.sgd.Optimizer
+lr: 0.001
+momentum: 0
+dampening: 0
+weight_decay: 0
+nesterov: false
+maximize: false
+differentiable: false
+fused: null
