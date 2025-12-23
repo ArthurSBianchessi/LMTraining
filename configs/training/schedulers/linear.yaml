@@ -1,0 +1,6 @@
+_target_: training.schedulers.linear.Scheduler
+start_factor: 1.0
+end_factor: 0.0
+total_iters: 100
+last_epoch: -1
+verbose: false
