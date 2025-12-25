@@ -1,7 +1,7 @@
 from typing import Protocol, List, Union, runtime_checkable
 
 @runtime_checkable
-class Tokenizer(Protocol):
+class TokenizerTemplate(Protocol):
     def __init__(self, **kwargs):
         ...
 
