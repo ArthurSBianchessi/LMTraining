@@ -1,2 +1,0 @@
-# Simple Initializer Configuration
-_target_: training.initializers.simple.SimpleInitializer

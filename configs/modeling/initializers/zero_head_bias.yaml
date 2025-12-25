@@ -1,0 +1,3 @@
+# Zero Head & Bias Initializer Configuration
+_target_: modeling.initializers.zero_head_bias.ZeroHeadBiasInitializer
+head_name: "lm_head"

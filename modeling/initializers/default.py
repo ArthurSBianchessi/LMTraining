@@ -1,6 +1,6 @@
 from modeling.models._template import ModelTemplate
 from modeling.tokenizers._template import TokenizerTemplate
-from training.initializers._template import InitializerTemplate
+from modeling.initializers._template import InitializerTemplate
 
 class DefaultInitializer:
     """

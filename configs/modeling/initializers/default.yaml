@@ -1,4 +1,4 @@
 # Default Initializer Configuration
-_target_: training.initializers.default.DefaultInitializer
+_target_: modeling.initializers.default.DefaultInitializer
 # This initializer performs no operations.
 pass: true

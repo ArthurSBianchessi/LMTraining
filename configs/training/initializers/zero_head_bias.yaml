@@ -1,3 +1,0 @@
-# Zero Head & Bias Initializer Configuration
-_target_: training.initializers.zero_head_bias.ZeroHeadBiasInitializer
-head_name: "lm_head"

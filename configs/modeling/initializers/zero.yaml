@@ -1,5 +1,5 @@
 # Generic Zero Initializer Configuration
-_target_: training.initializers.zero.ZeroInitializer
+_target_: modeling.initializers.zero.ZeroInitializer
 patterns: 
   - "*bias*"
   - "lm_head.weight"

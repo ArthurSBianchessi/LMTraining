@@ -1,4 +1,4 @@
 # NanoChat Initializer Configuration
-_target_: training.initializers.nanochat.NanoChatInitializer
+_target_: modeling.initializers.nanochat.NanoChatInitializer
 projection_subword: "out"
 head_name: "lm_head"
